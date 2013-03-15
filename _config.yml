@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : UnilVision
-tagline: 计算机视觉实验室
+tagline: Vision Algorithms
 author :
   name : Hong Gu
   email : ghong@zju.edu.cn
